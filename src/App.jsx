@@ -13,14 +13,14 @@ function App() {
   return (
     <>
       <Header />
-      <Alert />
-      <FirstSection />
-      <SecondSection />
-      <ThirdSection />
-      <FourthSection />
-      <FifthSection />
-      <SixthSection />
-      <Footer />
+      {/* <Alert /> */}
+      {/* <FirstSection /> */}
+      {/* <SecondSection /> */}
+      {/* <ThirdSection /> */}
+      {/* <FourthSection /> */}
+      {/* <FifthSection /> */}
+      {/* <SixthSection /> */}
+      {/* <Footer /> */}
     </>
   );
 }
