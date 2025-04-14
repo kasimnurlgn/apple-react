@@ -159,11 +159,12 @@ img {
 }
 .sixth-heghlight-wrapper .description-wraper {
   max-width: 250px;
-  margin: 0px auto;
+  margin: 3px auto 0px;
 }
 .description-wraper.white {
   color: white;
 }
+
 .links-wrapper {
   padding: 15px 0;
 }
@@ -320,6 +321,7 @@ img {
   max-width: 90%;
   margin: 0 auto;
 }
+
 /*Media Query*/
 /* Footer */
 @media (max-width: 768px) {

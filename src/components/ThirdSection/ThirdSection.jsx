@@ -15,7 +15,7 @@ const ThirdSection = () => {
             From $24.95/mo. or $599 with trade‑in.
           </div>
 
-          <div className="links-wrapper">
+          <div className="links-wrapper hovere-white">
             <ul>
               <li>
                 <a href="">Learn more</a>
