@@ -15,7 +15,7 @@ function App() {
       <Header />
       <Alert />
       <FirstSection />
-      {/* <SecondSection /> */}
+      <SecondSection />
       {/* <ThirdSection /> */}
       {/* <FourthSection /> */}
       {/* <FifthSection /> */}
